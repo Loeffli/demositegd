@@ -3,10 +3,11 @@
     margin:0;
     background-color: #ffeecc;
     border: 1px solid #555;
+    border-radius: 10px;
     height: 29px;
     text-align: center;
     color: #444;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
-    
+
 }
